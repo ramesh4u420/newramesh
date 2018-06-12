@@ -1,0 +1,11 @@
+project:
+  key: Dragon
+  plan:
+    key: SLAYER
+    name: Dragon Slayer Quest
+stages:
+  - jobs:
+    - scripts:
+      - echo 'Going to slay the dragon, watch me'
+      - sleep 1
+      - echo 'Nailed it'
